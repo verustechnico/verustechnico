@@ -1,16 +1,31 @@
-## Hi there 👋
+# verustechnico
 
-<!--
-**verustechnico/verustechnico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**verustechnico** is a digital solutions company providing high-quality **web** and **mobile application development** services. We are passionate about building tailored software that helps businesses grow and succeed in the digital space.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Services
+
+### 📱 Mobile Application Development
+- **Android**: Java, Kotlin
+- **iOS**: Swift, SwiftUI, Objective-C
+
+### 🌐 Web Application Development
+- **Backend & Full Stack**: PHP, Laravel
+- **Content Management**: WordPress
+
+---
+
+## 💡 Our Vision
+To deliver scalable, secure, and elegant software solutions that blend innovation with reliability.
+
+---
+
+## 📫 Contact
+> We're always open to exciting projects and collaborations.  
+> **Email**: verustechnico@gmail.com  
+> **Website**: [https://mashhoodqadeer.github.io/site/](https://mashhoodqadeer.github.io/site/)
+
+---
+
+**Let's build the future together — one line of code at a time.**
