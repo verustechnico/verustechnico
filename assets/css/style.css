@@ -314,7 +314,6 @@ header
 
 .header-area .main-nav .nav {
   float: right;
-  margin-top: 0px;
   margin-right: 0px;
   background-color: transparent;
   -webkit-transition: all 0.3s ease 0s;
@@ -551,10 +550,6 @@ header
   min-height: 80px;
 }
 
-.header-area .nav {
-  margin-top: 30px;
-}
-
 .header-area.header-sticky .nav li a.active {
   color: #fff;
 }
@@ -571,14 +566,14 @@ header
 
 @media (max-width: 767px) {
   .background-header .main-nav .nav {
-    margin-top: 80px !important;
+    margin-top: 9em;
   }
   .header-area .main-nav .logo {
     color: #1e1e1e;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #fff!important;
+    color: #FF60A0!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -607,20 +602,16 @@ header
     float: none;
     width: 100%;
     display: none;
+    margin-top: 9em;
     -webkit-transition: all 0s ease 0s;
     -moz-transition: all 0s ease 0s;
     -o-transition: all 0s ease 0s;
     transition: all 0s ease 0s;
     margin-left: 0px;
   }
-  .background-header .nav {
-    margin-top: 80px;
-  }
+  
   .header-area .main-nav .nav li:first-child {
     border-top: 1px solid #eee;
-  }
-  .header-area.header-sticky .nav {
-    margin-top: 100px;
   }
   .header-area .main-nav .nav li {
     width: 100%;
